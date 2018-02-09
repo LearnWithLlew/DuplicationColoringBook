@@ -8,7 +8,7 @@ Steps
 1. Fill in the white space
 1. Fill in the differences
 
-#Example
+## Example
 ![example of completed ](https://github.com/LearnWithLlew/DuplicationColoringBook/blob/master/images/refactoring%20coloring%20book.jpg?raw=true)
 
 ## Pre-requirements
