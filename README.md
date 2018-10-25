@@ -5,6 +5,7 @@ Printout exercises to learn refactoring
 
 Steps
 1. Draw a box around the duplication
+   Note: the box can not cross a programming block { }. it must include all of the block, or be inside it.
 1. Fill in the white space
 1. Fill in the differences
 
@@ -19,4 +20,3 @@ Checkout the [sparrow decks on duplication](http://llewellynfalco.blogspot.fi/p/
 [DuplicationKata.cpp.vs2017](https://github.com/LearnWithLlew/DuplicationKata.cpp.vs2017)  
 [DuplicationKata.java](https://github.com/LearnWithLlew/DuplicationKata.java)  
 [DuplicationKata.Net](https://github.com/LearnWithLlew/DuplicationKata.Net)  
-  
