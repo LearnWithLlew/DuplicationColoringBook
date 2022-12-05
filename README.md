@@ -1,5 +1,10 @@
 # DuplicationColoringBook
 Printout exercises to learn refactoring
+## Code Exercises
+| Language | Status |
+| --- | --- |
+| C# | [![Build](https://github.com/LearnWithLlew/DuplicationKata.Net/actions/workflows/build.yml/badge.svg)](https://github.com/LearnWithLlew/DuplicationKata.Net/actions/workflows/build.yml) |
+
 
 ![Animation of the steps](https://github.com/LearnWithLlew/DuplicationColoringBook/blob/master/images/Duplication%20Coloring%20Exercise.gif?raw=true)
 
