@@ -5,8 +5,8 @@ Printout exercises to learn refactoring
 | --- | --- |
 | [C#](https://github.com/LearnWithLlew/DuplicationKata.Net) | [![Build](https://github.com/LearnWithLlew/DuplicationKata.Net/actions/workflows/build.yml/badge.svg)](https://github.com/LearnWithLlew/DuplicationKata.Net/actions/workflows/build.yml) |
 | [Java](https://github.com/LearnWithLlew/DuplicationKata.java) | [![test](https://github.com/LearnWithLlew/DuplicationKata.java/actions/workflows/test.yml/badge.svg)](https://github.com/LearnWithLlew/DuplicationKata.java/actions/workflows/test.yml) |
-| [Javascript](https://github.com/LearnWithLlew/DuplicationKata.js) | |
-| [Php](https://github.com/LearnWithLlew/DuplicationKata.php) | |
+| [Javascript](https://github.com/LearnWithLlew/DuplicationKata.js) | [![Build](https://github.com/LearnWithLlew/DuplicationKata.js/actions/workflows/build.yml/badge.svg)](https://github.com/LearnWithLlew/DuplicationKata.js/actions/workflows/build.yml) |
+| [Php](https://github.com/LearnWithLlew/DuplicationKata.php) | [![build](https://github.com/LearnWithLlew/DuplicationKata.php/actions/workflows/test.yml/badge.svg)](https://github.com/LearnWithLlew/DuplicationKata.php/actions/workflows/test.yml)|
 | [Python](https://github.com/LearnWithLlew/DuplicationKata.Python) | |
 | [C++](https://github.com/LearnWithLlew/DuplicationKata.cpp.vs2017) | |
 
