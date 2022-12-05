@@ -4,7 +4,7 @@ Printout exercises to learn refactoring
 | Language | Status |
 | --- | --- |
 | [C#](https://github.com/LearnWithLlew/DuplicationKata.Net) | [![Build](https://github.com/LearnWithLlew/DuplicationKata.Net/actions/workflows/build.yml/badge.svg)](https://github.com/LearnWithLlew/DuplicationKata.Net/actions/workflows/build.yml) |
-| [Java](https://github.com/LearnWithLlew/DuplicationKata.java) | |
+| [Java](https://github.com/LearnWithLlew/DuplicationKata.java) | [![test](https://github.com/LearnWithLlew/DuplicationKata.java/actions/workflows/test.yml/badge.svg)](https://github.com/LearnWithLlew/DuplicationKata.java/actions/workflows/test.yml) |
 | [Javascript](https://github.com/LearnWithLlew/DuplicationKata.js) | |
 | [Php](https://github.com/LearnWithLlew/DuplicationKata.php) | |
 | [Python](https://github.com/LearnWithLlew/DuplicationKata.Python) | |
