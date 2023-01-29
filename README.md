@@ -1,5 +1,14 @@
 # DuplicationColoringBook
 Printout exercises to learn refactoring
+## Code Exercises
+| Language | Status |
+| --- | --- |
+| [C#](https://github.com/LearnWithLlew/DuplicationKata.Net) | [![Build](https://github.com/LearnWithLlew/DuplicationKata.Net/actions/workflows/build.yml/badge.svg)](https://github.com/LearnWithLlew/DuplicationKata.Net/actions/workflows/build.yml) |
+| [Java](https://github.com/LearnWithLlew/DuplicationKata.java) | [![test](https://github.com/LearnWithLlew/DuplicationKata.java/actions/workflows/test.yml/badge.svg)](https://github.com/LearnWithLlew/DuplicationKata.java/actions/workflows/test.yml) |
+| [Javascript](https://github.com/LearnWithLlew/DuplicationKata.js) | [![Build](https://github.com/LearnWithLlew/DuplicationKata.js/actions/workflows/build.yml/badge.svg)](https://github.com/LearnWithLlew/DuplicationKata.js/actions/workflows/build.yml) |
+| [Php](https://github.com/LearnWithLlew/DuplicationKata.php) | [![build](https://github.com/LearnWithLlew/DuplicationKata.php/actions/workflows/test.yml/badge.svg)](https://github.com/LearnWithLlew/DuplicationKata.php/actions/workflows/test.yml)|
+| [Python](https://github.com/LearnWithLlew/DuplicationKata.Python) | [![Build](https://github.com/LearnWithLlew/DuplicationKata.Python/actions/workflows/build.yml/badge.svg)](https://github.com/LearnWithLlew/DuplicationKata.Python/actions/workflows/build.yml) |
+| [C++](https://github.com/LearnWithLlew/DuplicationKata.cpp.vs2017) | |
 
 ![Animation of the steps](https://github.com/LearnWithLlew/DuplicationColoringBook/blob/master/images/Duplication%20Coloring%20Exercise.gif?raw=true)
 
